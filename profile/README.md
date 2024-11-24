@@ -11,7 +11,7 @@
 We're a friendly community of open source enthusiasts who meet monthly to:
 - Share experiences and knowledge about open source
 - Discuss interesting projects and technologies
-- Connect with fellow developers in the Boston area
+- Connect with fellow enthusiasts and developers in the Boston area
 - Enjoy good food and conversations!
 
 ## 🤝 Join Us
