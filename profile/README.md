@@ -28,7 +28,7 @@ We follow our [Code of Conduct](https://bostonopen.dev/CODE_OF_CONDUCT.html) to 
 - 💬 Chat: [Zulip](https://osdc.zulipchat.com/#narrow/stream/406743-boston) - Join our community chat for real-time discussions
 - 🐘 Social: [Mastodon](https://floss.social/@bostonopen) - Follow us in the Fediverse for updates
 - 💭 [GitHub Discussions](https://github.com/orgs/bostonopen/discussions) - Chat with us here on GitHub
-- 👥 Add yourself to our [community directory](https://github.com/bostonopen/people/blob/main/people.tsv)
+- 👥 [Add yourself](https://github.com/bostonopen/people/blob/main/people.tsv) to our [community directory](https://bostonopen.dev/people)
 
 ---
 
@@ -36,6 +36,6 @@ We follow our [Code of Conduct](https://bostonopen.dev/CODE_OF_CONDUCT.html) to 
 
 **[Join Discussions](https://github.com/orgs/bostonopen/discussions)** • **[Chat on Zulip](https://osdc.zulipchat.com/#narrow/stream/406743-boston)** • **[Follow on Mastodon](https://floss.social/@bostonopen)**
 
-*Made with ❤️ by the Boston open dev community*
+*Made with ❤️ by the Boston Open Dev community*
 
 </div>
