@@ -5,7 +5,7 @@
 We take the security of Boston Open Dev's repository and infrastructure seriously. If you discover a security vulnerability, please report it responsibly using GitHub's **Private Vulnerability Reporting** feature.
 
 1. **DO NOT** create a public GitHub issue to report vulnerabilities.
-2. Use the **GitHub Security Advisories** feature to submit your report privately. For guidance, refer to GitHub's Documentation on Private Vulnerability Reporting.
+2. Use the **GitHub Security Advisories** feature to submit your report privately. For guidance, refer to [GitHub's Documentation on Private Vulnerability Reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability).
 
 All reports will be reviewed and triaged based on their severity by the project maintainers, led by Security Manager Sooraj Sathyanarayanan.
 
